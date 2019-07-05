@@ -1,0 +1,68 @@
+
+#tabela{
+    font-family: cursive;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+  }
+  #tabela td, #tabela th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }  
+
+  #tabela tr:nth-child(even){background-color: white;}
+
+#tabela tr:hover {background-color: #ddd;}
+
+#tabela th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: gray;
+    color: white;
+  }
+
+    div.row{
+    font-family: cursive;
+    
+  }
+  #vazio{
+    text-align: center;
+    font-family: cursive;
+  }
+  H1, h2{
+      font-family: cursive;
+      text-align: center;
+  }
+  input{
+  font-family: cursive;
+}
+#menStatus{
+    font-size: larger;
+    background-color: yellowgreen; 
+    text-align: center;
+    color: white;
+}
+.tabTop{
+  text-align: center;
+  color: white;
+  background-color: green;
+  height: 50px;
+}
+.tabLinha
+{
+  text-align: center;
+}
+.table1{
+  font-size: 18px;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+
+}
+/* .fa.fa-edit{
+    color: black;
+    border-color: #006400;
+ 
+} */
